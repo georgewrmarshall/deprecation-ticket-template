@@ -6,7 +6,7 @@ Select all instances and replace the following with ticket details
 - NEW_COMPONENT_FILE_PATH
 -->
 
-# Replace old OLD_COMPONENT component with new NEW_COMPONENT component
+# Replace deprecated OLD_COMPONENT component with new NEW_COMPONENT component
 
 ### Description
 
