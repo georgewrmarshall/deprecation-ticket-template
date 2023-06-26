@@ -6,7 +6,7 @@ Select all instances and replace the following with ticket details
 - NEW_COMPONENT_FILE_PATH
 -->
 
-# Replace deprecated OLD_COMPONENT component with new NEW_COMPONENT component
+# Replace deprecated OLD_COMPONENT component with NEW_COMPONENT from the component-library
 
 ### Description
 
@@ -16,7 +16,7 @@ This is a massive undertaking by itself and creating a single PR would be too la
 
 ### Technical Details
 
-- Replace instances of OLD_COMPONENT component (`OLD_COMPONENT_FILE_PATH`) with NEW_COMPONENT component (`NEW_COMPONENT_FILE_PATH`)
+- Replace instances of `OLD_COMPONENT` component (`OLD_COMPONENT_FILE_PATH`) with `NEW_COMPONENT` component (`NEW_COMPONENT_FILE_PATH`)
 - Component APIs are slightly different so ensure all props have been migrated appropriately
 
 ### Acceptance Criteria

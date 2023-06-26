@@ -21,8 +21,8 @@ Add the deprecation JSDoc format below to the deprecated code
 
 ```
 /**
- * @deprecated The <OLD_COMPONENT /> component has been deprecated in favor of the new <NEW_COMPONENT> component from the component-library.
- * Please update your code to use the new <NEW_COMPONENT> component instead, which can be found at NEW_COMPONENT_FILE_PATH.
+ * @deprecated The `<OLD_COMPONENT />` component has been deprecated in favor of the new `<NEW_COMPONENT>` component from the component-library.
+ * Please update your code to use the new `<NEW_COMPONENT>` component instead, which can be found at NEW_COMPONENT_FILE_PATH.
  * You can find documentation for the new NEW_COMPONENT component in the MetaMask Storybook:
  * {@link NEW_COMPONENT_STORYBOOK_DOC_LINK}
  * If you would like to help with the replacement of the old OLD_COMPONENT component, please submit a pull request against this GitHub issue:
