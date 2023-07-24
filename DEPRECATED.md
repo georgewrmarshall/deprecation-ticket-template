@@ -8,11 +8,11 @@ Select all instances and replace the following with ticket details
 - REPLACE_OLD_COMPONENT_GITHUB_ISSUE_LINK
 -->
 
-# Deprecate OLD_COMPONENT in favour of NEW_COMPONENT
+# Deprecate OLD_COMPONENT in favor of NEW_COMPONENT
 
 ### Description
 
-To prevent further tech debt and inconsistencies `OLD_COMPONENT` can be deprecated in favour of `NEW_COMPONENT`
+To prevent further tech debt and inconsistencies `OLD_COMPONENT` can be deprecated in favor of `NEW_COMPONENT`
 
 `OLD_COMPONENT` (old): `OLD_COMPONENT_FILE_PATH`
 `NEW_COMPONENT` (new): `NEW_COMPONENT_FILE_PATH`
