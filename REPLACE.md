@@ -21,8 +21,8 @@ This is a massive undertaking by itself and creating a single PR would be too la
 
 ### Acceptance Criteria
 
-- Instances of OLD_COMPONENT component are completely replaced with the new NEW_COMPONENT component
-- The component APIs are updated to reflect the changes in the new OLD_COMPONENT component and there is no functional changes or visual regression
+- Instances of `OLD_COMPONENT` component are completely replaced with the new `NEW_COMPONENT` component
+- The component APIs are updated to reflect the changes in the new `OLD_COMPONENT`` component and there is no functional changes or visual regression
 - Each Pull Request (PR) should include **no more than 3 files**
 - The code changes should pass Jest tests, linting, and Storybook without any errors.
 - The PR must include before and after screenshots of the UI to ensure there are no visual regressions.
