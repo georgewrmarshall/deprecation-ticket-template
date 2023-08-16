@@ -34,7 +34,7 @@ Add the deprecation JSDoc format below to the deprecated code
 
 - Add deprecation notice to storybook
 - Add deprecation message above old component function or class
-- Create good first issue to replace all old components with new [Replace old OLD_COMPONENT component with new NEW_COMPONENT component](./REPLACE.md)
+- Create good first issue to replace all old components with new [Replace old OLD_COMPONENT component with new NEW_COMPONENT component](https://github.com/georgewrmarshall/issue-templates/blob/main/REPLACE.md)
 
 ### Acceptance Criteria
 
