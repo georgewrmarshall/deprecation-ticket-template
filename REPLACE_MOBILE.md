@@ -12,7 +12,7 @@ Select all instances and replace the following with ticket details
 
 Currently, mobile is using an outdated `OLD_COMPONENT` component, which needs to be replaced with the new `NEW_COMPONENT` component.
 
-This is a massive undertaking by itself and creating a single PR would be too large. Smaller PRs can be submitted against this issue to ensure easier review and gradual improvements.
+This is a massive undertaking by itself and assigning to a single contributor and creating a single PR would be too large. Smaller PRs can be submitted against this issue from multiple contributors to ensure easier review and gradual improvements.
 
 ### Technical Details
 
