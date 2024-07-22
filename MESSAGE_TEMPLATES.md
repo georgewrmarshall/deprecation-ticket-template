@@ -5,8 +5,6 @@
 ### Thank for your interest in contriburing to MetaMask
 
 - CONTRIBUTOR_NAME
-- ISSUE_LINK
-- ACCEPTANCE_CRITERIA_LIST
 
 Hi [CONTRIBUTOR_NAME],
 
