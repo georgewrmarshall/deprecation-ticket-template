@@ -1,5 +1,22 @@
-- PR does not meet acceptance criteria
-- Another PR has been merge which completes the task
+- [Thank you for your interest in contributing to MetaMask](#thank-you-for-your-interest-in-contributing-to-metamask)
+- [PR does not meet acceptance criteria](#pr-does-not-meet-acceptance-criteria)
+- [Another PR has been merged which completes the task](#another-pr-has-been-merged-which-completes-the-task)
+
+### Thank for your interest in contriburing to MetaMask
+
+- CONTRIBUTOR_NAME
+- ISSUE_LINK
+- ACCEPTANCE_CRITERIA_LIST
+
+Hi [CONTRIBUTOR_NAME],
+
+Thank you for your interest in contributing to MetaMask. This issue covers a lot of work and should be broken down into smaller PRs. Therefore, we won't be assigning this issue to anyone in particular.
+
+Please make sure to carefully review the acceptance criteria to ensure that your PR meets all the requirements. This will help prevent your PR from being closed. A good starting point is to read the [Getting Started](https://github.com/MetaMask/metamask-mobile/tree/main?tab=readme-ov-file#getting-started) and [Contributor Docs](https://github.com/MetaMask/contributor-docs). These resources will guide you on how to get started and what to keep in mind while contributing.
+
+Thanks again, and I look forward to your contributions!
+
+---
 
 ### PR does not meet acceptance criteria
 
